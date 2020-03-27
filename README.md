@@ -3,7 +3,7 @@ Ownum coding Challenge
 
 Reads in file and prints information to the console.
 
-Run FileParser.java to run the code.
+Run FileParser.java in the src folder to run the code.
 
 Below is the information I gathered from the file.
 

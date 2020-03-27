@@ -3,6 +3,8 @@ Ownum coding Challenge
 
 Reads in file and prints information to the console.
 
+Run FileParser.java to run the code.
+
 Below is the information I gathered from the file.
 
 Number of Words: 443
